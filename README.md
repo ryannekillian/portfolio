@@ -4,4 +4,4 @@ This is my portfolio. It allows potential employers to see my previous and curre
 
 [link to my website](https://ryannekillian.github.io/portfolio/)
 
-![this is a screenshot of my portfolio](.assets/images/screenshot.png)
+![this is a screenshot of my portfolio](./assets/images/screenshot.png)
